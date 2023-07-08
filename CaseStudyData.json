@@ -1,0 +1,230 @@
+{
+  "brands": [
+    {
+      "name": "Nike",
+      "products": [
+        {
+          "id": "Nike1",
+          "productName": "Nike Air Max 90",
+          "graphicName": "Nike Graphic 1",
+          "costPrice": 89.99,
+          "msrp": 129.99,
+          "qtyOnHand": 50,
+          "qtyOnBackOrder": 0,
+          "description": "The Nike Air Max 90 is a classic shoe with iconic design elements."
+        },
+        {
+          "id": "Nike2",
+          "productName": "Nike Zoom Pegasus 38",
+          "graphicName": "Nike Graphic 2",
+          "costPrice": 99.99,
+          "msrp": 149.99,
+          "qtyOnHand": 40,
+          "qtyOnBackOrder": 0,
+          "description": "The Nike Zoom Pegasus 38 is a versatile running shoe with responsive cushioning."
+        },
+        {
+          "id": "Nike3",
+          "productName": "Nike Air Force 1",
+          "graphicName": "Nike Graphic 3",
+          "costPrice": 79.99,
+          "msrp": 119.99,
+          "qtyOnHand": 30,
+          "qtyOnBackOrder": 0,
+          "description": "The Nike Air Force 1 is an iconic sneaker known for its timeless style."
+        },
+        {
+          "id": "Nike4",
+          "productName": "Nike React Infinity Run Flyknit",
+          "graphicName": "Nike Graphic 4",
+          "costPrice": 129.99,
+          "msrp": 169.99,
+          "qtyOnHand": 20,
+          "qtyOnBackOrder": 0,
+          "description": "The Nike React Infinity Run Flyknit provides a cushioned and supportive ride for long-distance runs."
+        },
+        {
+          "id": "Nike5",
+          "productName": "Nike SB Dunk Low Pro",
+          "graphicName": "Nike Graphic 5",
+          "costPrice": 89.99,
+          "msrp": 129.99,
+          "qtyOnHand": 10,
+          "qtyOnBackOrder": 0,
+          "description": "The Nike SB Dunk Low Pro offers classic skateboarding style and excellent board feel."
+        }
+      ]
+    },
+    {
+      "name": "Adidas",
+      "products": [
+        {
+          "id": "Adidas1",
+          "productName": "Adidas Ultraboost 21",
+          "graphicName": "Adidas Graphic 1",
+          "costPrice": 169.99,
+          "msrp": 199.99,
+          "qtyOnHand": 30,
+          "qtyOnBackOrder": 0,
+          "description": "The Adidas Ultraboost 21 offers maximum comfort and energy return for your runs."
+        },
+        {
+          "id": "Adidas2",
+          "productName": "Adidas Superstar",
+          "graphicName": "Adidas Graphic 2",
+          "costPrice": 79.99,
+          "msrp": 99.99,
+          "qtyOnHand": 25,
+          "qtyOnBackOrder": 0,
+          "description": "The Adidas Superstar is a timeless sneaker that adds a retro touch to your style."
+        },
+        {
+          "id": "Adidas3",
+          "productName": "Adidas NMD R1",
+          "graphicName": "Adidas Graphic 3",
+          "costPrice": 119.99,
+          "msrp": 149.99,
+          "qtyOnHand": 20,
+          "qtyOnBackOrder": 0,
+          "description": "The Adidas NMD R1 combines modern design with comfortable cushioning."
+        },
+        {
+          "id": "Adidas4",
+          "productName": "Adidas Stan Smith",
+          "graphicName": "Adidas Graphic 4",
+          "costPrice": 89.99,
+          "msrp": 109.99,
+          "qtyOnHand": 15,
+          "qtyOnBackOrder": 0,
+          "description": "The Adidas Stan Smith is a classic tennis shoe with a clean and minimalistic design."
+        },
+        {
+          "id": "Adidas5",
+          "productName": "Adidas Gazelle",
+          "graphicName": "Adidas Graphic 5",
+          "costPrice": 79.99,
+          "msrp": 99.99,
+          "qtyOnHand": 10,
+          "qtyOnBackOrder": 0,
+          "description": "The Adidas Gazelle is an iconic trainer that blends sporty and casual style."
+        }
+      ]
+    },
+    {
+      "name": "Puma",
+      "products": [
+        {
+          "id": "Puma1",
+          "productName": "Puma RS-X³",
+          "graphicName": "Puma Graphic 1",
+          "costPrice": 119.99,
+          "msrp": 139.99,
+          "qtyOnHand": 35,
+          "qtyOnBackOrder": 0,
+          "description": "The Puma RS-X³ combines futuristic design elements with retro influences."
+        },
+        {
+          "id": "Puma2",
+          "productName": "Puma Suede Classic",
+          "graphicName": "Puma Graphic 2",
+          "costPrice": 69.99,
+          "msrp": 89.99,
+          "qtyOnHand": 20,
+          "qtyOnBackOrder": 0,
+          "description": "The Puma Suede Classic is a legendary sneaker known for its iconic style."
+        },
+        {
+          "id": "Puma3",
+          "productName": "Puma Clyde Court",
+          "graphicName": "Puma Graphic 3",
+          "costPrice": 109.99,
+          "msrp": 129.99,
+          "qtyOnHand": 15,
+          "qtyOnBackOrder": 0,
+          "description": "The Puma Clyde Court is a performance basketball shoe with a modern look."
+        },
+        {
+          "id": "Puma4",
+          "productName": "Puma RS-Fast",
+          "graphicName": "Puma Graphic 4",
+          "costPrice": 99.99,
+          "msrp": 119.99,
+          "qtyOnHand": 25,
+          "qtyOnBackOrder": 0,
+          "description": "The Puma RS-Fast is a retro-inspired sneaker with a chunky silhouette."
+        },
+        {
+          "id": "Puma5",
+          "productName": "Puma Cali",
+          "graphicName": "Puma Graphic 5",
+          "costPrice": 79.99,
+          "msrp": 99.99,
+          "qtyOnHand": 30,
+          "qtyOnBackOrder": 0,
+          "description": "The Puma Cali is a classic tennis-inspired sneaker with a modern twist."
+        }
+      ]
+    }
+	{
+	  "id": "Reebok",
+	  "name": "Reebok",
+	  "products": [
+		{
+		  "id": "Reebok1",
+		  "brandId": 4,
+		  "productName": "Reebok Nano X1",
+		  "graphicName": "Reebok Graphic 1",
+		  "costPrice": 129.99,
+		  "msrp": 159.99,
+		  "qtyOnHand": 45,
+		  "qtyOnBackOrder": 0,
+		  "description": "The Reebok Nano X1 is a versatile training shoe designed for cross-training and gym workouts."
+		},
+		{
+		  "id": "Reebok2",
+		  "brandId": 4,
+		  "productName": "Reebok Classic Leather",
+		  "graphicName": "Reebok Graphic 2",
+		  "costPrice": 79.99,
+		  "msrp": 99.99,
+		  "qtyOnHand": 15,
+		  "qtyOnBackOrder": 0,
+		  "description": "The Reebok Classic Leather is an iconic shoe that delivers timeless style and comfort."
+		},
+		{
+		  "id": "Reebok3",
+		  "brandId": 4,
+		  "productName": "Reebok Club C 85",
+		  "graphicName": "Reebok Graphic 3",
+		  "costPrice": 89.99,
+		  "msrp": 109.99,
+		  "qtyOnHand": 25,
+		  "qtyOnBackOrder": 0,
+		  "description": "The Reebok Club C 85 is a classic tennis shoe with a clean and timeless design."
+		},
+		{
+		  "id": "Reebok4",
+		  "brandId": 4,
+		  "productName": "Reebok Zig Kinetica",
+		  "graphicName": "Reebok Graphic 4",
+		  "costPrice": 139.99,
+		  "msrp": 169.99,
+		  "qtyOnHand": 20,
+		  "qtyOnBackOrder": 0,
+		  "description": "The Reebok Zig Kinetica offers a dynamic and responsive ride with its innovative cushioning technology."
+		},
+		{
+		  "id": "Reebok5",
+		  "brandId": 4,
+		  "productName": "Reebok Floatride Energy",
+		  "graphicName": "Reebok Graphic 5",
+		  "costPrice": 79.99,
+		  "msrp": 99.99,
+		  "qtyOnHand": 30,
+		  "qtyOnBackOrder": 0,
+		  "description": "The Reebok Floatride Energy provides lightweight and comfortable cushioning for your runs."
+		}
+	  ]
+	}
+  ]
+}
