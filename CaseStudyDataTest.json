@@ -1,0 +1,58 @@
+[
+	{
+	  "brand": "Nike",
+	  "id": "Nike1",
+	  "productName": "Nike Air Max 90",
+	  "graphicName": "Nike Graphic 1",
+	  "costPrice": 89.99,
+	  "msrp": 129.99,
+	  "qtyOnHand": 50,
+	  "qtyOnBackOrder": 0,
+	  "description": "The Nike Air Max 90 is a classic shoe with iconic design elements."
+	},
+	{
+	  "brand": "Nike",
+	  "id": "Nike2",
+	  "productName": "Nike Zoom Pegasus 38",
+	  "graphicName": "Nike Graphic 2",
+	  "costPrice": 99.99,
+	  "msrp": 149.99,
+	  "qtyOnHand": 40,
+	  "qtyOnBackOrder": 0,
+	  "description": "The Nike Zoom Pegasus 38 is a versatile running shoe with responsive cushioning."
+	},
+	{
+	  "brand": "Nike",
+	  "id": "Nike3",
+	  "productName": "Nike Air Force 1",
+	  "graphicName": "Nike Graphic 3",
+	  "costPrice": 79.99,
+	  "msrp": 119.99,
+	  "qtyOnHand": 30,
+	  "qtyOnBackOrder": 0,
+	  "description": "The Nike Air Force 1 is an iconic sneaker known for its timeless style."
+	},
+	{
+	  "brand": "Nike",
+	  "id": "Nike4",
+	  "productName": "Nike React Infinity Run Flyknit",
+	  "graphicName": "Nike Graphic 4",
+	  "costPrice": 129.99,
+	  "msrp": 169.99,
+	  "qtyOnHand": 20,
+	  "qtyOnBackOrder": 0,
+	  "description": "The Nike React Infinity Run Flyknit provides a cushioned and supportive ride for long-distance runs."
+	},
+	{
+	  "brand": "Nike",
+	  "id": "Nike5",
+	  "productName": "Nike SB Dunk Low Pro",
+	  "graphicName": "Nike Graphic 5",
+	  "costPrice": 89.99,
+	  "msrp": 129.99,
+	  "qtyOnHand": 10,
+	  "qtyOnBackOrder": 0,
+	  "description": "The Nike SB Dunk Low Pro offers classic skateboarding style and excellent board feel."
+	}
+
+]
